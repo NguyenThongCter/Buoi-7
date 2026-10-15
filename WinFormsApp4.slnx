@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="WinFormsApp4.BLL/WinFormsApp4.BLL.csproj" Id="45f6dca4-8888-42de-b5db-9c9e34f5b525" />
+  <Project Path="WinFormsApp4.DAL/WinFormsApp4.DAL.csproj" Id="c2157949-ac79-4c47-b58d-7e90318e95fd" />
+  <Project Path="WinFormsApp4/WinFormsApp4.csproj" />
+</Solution>
